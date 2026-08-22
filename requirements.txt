@@ -1,0 +1,23 @@
+# Core
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
+
+# LLM / Agent orchestration
+langgraph
+langchain-groq
+langchain-core
+
+# RAG
+chromadb
+sentence-transformers
+rank_bm25
+
+# Frontend
+streamlit
+requests
+
+# Testing
+pytest
